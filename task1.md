@@ -31,7 +31,7 @@
    *Результат:*
    Созданы новые индексы
 
-   ![pic](1)
+   ![pic](https://github.com/vitflare/seminar-10/blob/seminar-10/shiverskikh-elizaveta/screenshots/1.png)
 
 4. Проверьте информацию о созданных индексах:
    ```sql
@@ -42,7 +42,7 @@
    
    *Результат:*
 
-   ![pic](2)
+   ![pic](https://github.com/vitflare/seminar-10/blob/seminar-10/shiverskikh-elizaveta/screenshots/2.png)
    
    *Объясните результат:*
 
@@ -172,7 +172,7 @@
    
    *Результат:*
    
-   ![pic](3)
+   ![pic](https://github.com/vitflare/seminar-10/blob/seminar-10/shiverskikh-elizaveta/screenshots/3.png)
 
 10. Удалите созданные индексы:
     ```sql
@@ -184,7 +184,7 @@
 
     Индексы были удалены
 
-    ![pic](4)
+    ![pic](https://github.com/vitflare/seminar-10/blob/seminar-10/shiverskikh-elizaveta/screenshots/4.png)
 
 11. Основываясь на предыдущих результатах, создайте индексы для оптимизации следующих запросов:
 
@@ -374,7 +374,7 @@
     *Результат:*
     Индекс создан
 
-    ![pic](5)
+    ![pic](https://github.com/vitflare/seminar-10/blob/seminar-10/shiverskikh-elizaveta/screenshots/5.png)
 
 15. Выполните запрос из шага 13 с использованием UPPER:
     ```sql
