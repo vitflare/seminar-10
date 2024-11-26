@@ -104,7 +104,7 @@
 
    Создан индекс
 
-   ![pic](6)
+   ![pic](https://github.com/vitflare/seminar-10/blob/seminar-10/shiverskikh-elizaveta/screenshots/6.png)
 
 7. Повторите запрос из шага 5:
    ```sql
@@ -139,7 +139,7 @@
    
    Индекс удален
 
-   ![pic](7)
+   ![pic](https://github.com/vitflare/seminar-10/blob/seminar-10/shiverskikh-elizaveta/screenshots/7.png)
 
 9. Создайте индекс для каждой партиции:
    ```sql
@@ -152,7 +152,7 @@
    
    Созданы индексы непосредственно внутри партиций
 
-   ![pic](8)
+   ![pic](https://github.com/vitflare/seminar-10/blob/seminar-10/shiverskikh-elizaveta/screenshots/8.png)
 
 10. Повторите запрос из шага 5:
     ```sql
@@ -189,7 +189,7 @@
 
     Индексы удалены
 
-    ![pic](9)
+    ![pic](https://github.com/vitflare/seminar-10/blob/seminar-10/shiverskikh-elizaveta/screenshots/9.png)
 
 12. Создайте обычный индекс по book_id:
     ```sql
@@ -200,7 +200,7 @@
     
     Индекс создан
 
-    ![pic](10)
+    ![pic](https://github.com/vitflare/seminar-10/blob/seminar-10/shiverskikh-elizaveta/screenshots/10.png)
 
 13. Выполните поиск по book_id:
     ```sql
@@ -229,7 +229,7 @@
     
     Индекс создан
 
-    ![pic](11)
+    ![pic](https://github.com/vitflare/seminar-10/blob/seminar-10/shiverskikh-elizaveta/screenshots/11.png)
 
 15. Выполните поиск активных книг с отключенным последовательным сканированием:
     ```sql
@@ -285,7 +285,7 @@
 
     Индекс создан
 
-    ![pic](12)
+    ![pic](https://github.com/vitflare/seminar-10/blob/seminar-10/shiverskikh-elizaveta/screenshots/12.png)
 
 17. Найдите максимальное название для каждого автора:
     ```sql
@@ -416,7 +416,7 @@
     
     Индекс создан
 
-    ![pic](13)
+    ![pic](https://github.com/vitflare/seminar-10/blob/seminar-10/shiverskikh-elizaveta/screenshots/13.png)
 
 22. Найдите книги без категории:
     ```sql
@@ -449,7 +449,7 @@
     *Результат:*
     Индекс создан
 
-    ![pic](13)
+    ![pic](https://github.com/vitflare/seminar-10/blob/seminar-10/shiverskikh-elizaveta/screenshots/14.png)
 
 24. Повторите запрос из шага 22:
     ```sql
