@@ -78,3 +78,5 @@ lastname-firstname/
 
 - [Документация PostgreSQL по индексам](https://www.postgresql.org/docs/current/indexes.html)
 - [Use The Index, Luke!](https://use-the-index-luke.com/)
+
+  
